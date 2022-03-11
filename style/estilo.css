@@ -14,3 +14,10 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+h1{
+    font-size: 35px;
+    color: rgb(49, 49, 121);
+}
+h2{
+    font-size: 20px;
+}
